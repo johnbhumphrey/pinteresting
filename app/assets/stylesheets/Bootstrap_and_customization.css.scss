@@ -5,6 +5,15 @@ $navbar-default-link-color: 		black;
 $brand-primary: 					rgb(83, 80, 74);
 $jumbotron-bg: 						rgb(152, 146, 129);
 $jumbotron-color:					white;
-$font-family-sans-serif:			'Nexa Bold';
+$font-family-sans-serif:			'Nexa Regular';
 
 @import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-family: Nexa Black;
+	font-size: 16px;
+}
