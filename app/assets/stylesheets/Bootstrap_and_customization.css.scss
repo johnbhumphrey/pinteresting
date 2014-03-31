@@ -1,7 +1,10 @@
-$body-bg:			rgb(254, 205, 49);
-$navbar-default-bg: white;	
-$navbar-default-link-color: black;
-$brand-primary: rgb(83, 80, 74);
-$jumbotron-bg: rgb(152, 146, 129);
-$jumbotron-color: white;
+$body-bg:							rgb(254, 205, 49);
+$navbar-default-bg: 				white;	
+$navbar-height:						50px;
+$navbar-default-link-color: 		black;
+$brand-primary: 					rgb(83, 80, 74);
+$jumbotron-bg: 						rgb(152, 146, 129);
+$jumbotron-color:					white;
+$font-family-sans-serif:			'Nexa Bold';
+
 @import 'bootstrap';
